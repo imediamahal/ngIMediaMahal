@@ -4,6 +4,11 @@ Check Node version: node -v : v20.10.0
 
 Check NPM version: npm -v: v10.2.3
 
+This package has installed:
+	•	Node.js v18.12.0 to /usr/local/bin/node
+	•	npm v8.19.2 to /usr/local/bin/npm
+Make sure that /usr/local/bin is in your $PATH
+
 Check Angular CLI version: ng version
 if Angular not installed, install using npm: npm install -g @angular/cli 
     for more info read: https://angular.io/guide/setup-local
