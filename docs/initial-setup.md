@@ -22,3 +22,5 @@ My current version is:
 
 I need to update to the lastest Angular version 15 that is compatible with Material (latest) using this command:
     ng update @angular/core@15 @angular/cli@15
+  
+    Note: if you get an error "Repository is not clean. Please commit or stash any changes before updating" you may need to add the --allow-dirty or even --allow-dirty --force in some case.
